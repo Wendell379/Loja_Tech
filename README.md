@@ -14,6 +14,8 @@ O banco é composto por 6 tabelas principais que armazenam o catálogo, os clien
 * **`pedidos`**: Registro das vendas, datas, status de pagamento/entrega e valor total.
 * **`itens_pedido`**: Detalhamento dos produtos vinculados a cada pedido.
 * **`log_operacoes`**: Registro de auditoria para alterações críticas realizadas no sistema.
+* ![Diagrama do Banco de Dados](https://github.com/user-attachments/files/35409579/README.md)
+
 
 
 
